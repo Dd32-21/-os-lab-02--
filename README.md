@@ -8,7 +8,8 @@
 #Содержание 
 [Разведка Системы] (01-razvedka.md)
 [GRUB] (02-grub.md)
-  03-vremya.md
+[Анализ времени загрузки] (03-vremya.md)
+
   04-jurnaly.md
    05-sluzhba.md
     06-ataka-zashchita.md
